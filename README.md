@@ -5,6 +5,7 @@
 This project analyzes pizza sales data to gain insights into business performance through key performance indicators (KPIs) and visualizations. The analysis includes both SQL queries for data extraction and a Power BI dashboard for interactive visualization.
 
 About Dataset
+
 This dataset contain detailed information about pizza orders, including specifics about the pizza variants, quantities, pricing, dates, times, and categorization details.
 
 pizza_id: A unique identifier assigned to each distinct pizza variant available for ordering.
